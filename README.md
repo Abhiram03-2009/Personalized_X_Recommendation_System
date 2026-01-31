@@ -1,4 +1,4 @@
-# personalized-recommendation-system
+# Personalized X Recommendation System
 This repository contains a scalable and modular project for building a personalized content recommendation system using advanced machine learning techniques. It demonstrates collaborative filtering, content-based filtering, and hybrid approaches to provide real-time, user-specific recommendations.  
 The project is designed to showcase expertise in machine learning, NLP, and deployment of production-ready systems, with detailed instructions for reproducibility and extensibility.
 
@@ -28,5 +28,4 @@ Please refer to the [README.md](README.md) file for setup instructions, usage de
 
 ---
 
-## **License**
-This repository is licensed under the MIT License. Feel free to use, modify, and distribute as needed.
+## **Made by Abhiram Kaakarla**
